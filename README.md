@@ -12,7 +12,7 @@ A modern and responsive Task Management Dashboard system built with React, TypeS
 - Form validation using Zod
 
 ### Task Management
-- Create and manage tasj=ks
+- Create and manage tasks
 - Define and modify task status
 - Visual status management interface
 
@@ -84,5 +84,4 @@ src/
 ├── types/          # TypeScript interfaces
 └── assets/         # Static assets
 ```
-# frontend-assignment-8
 # frontend-assignment-8
